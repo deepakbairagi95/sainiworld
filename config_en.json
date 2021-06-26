@@ -1,0 +1,226 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/images/logo-app.png",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": true
+    },
+    {
+      "marginY": 8,
+      "marginBottom": 10,
+      "layout": "category",
+      "marginLeft": 10,
+      "wrap": false,
+      "line": false,
+      "marginRight": 10,
+      "type": "icon",
+      "marginTop": 10,
+      "marginX": 4,
+      "size": 1,
+      "paddingX": 4,
+      "items": [
+        {
+          "category": "8",
+          "title": "Bath",
+          "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/images/bath.png",
+          "originalColor": false,
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "keepDefaultTitle": true
+        },
+        {
+          "category": "48",
+          "title": "Kitchen",
+          "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/images/kitchen.png",
+          "keepDefaultTitle": true,
+          "colors": [
+            "#3E6AB5",
+            "#3E6AB5"
+          ],
+          "originalColor": false
+        },
+        {
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ],
+          "category": "34",
+          "originalColor": false,
+          "keepDefaultTitle": false,
+          "title": "",
+          "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/images/faucets.png"
+        },
+        {
+          "originalColor": false,
+          "category": "13",
+          "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/images/flooring.png",
+          "keepDefaultTitle": true,
+          "title": "Flooring",
+          "colors": [
+            "#53688A",
+            "#53688A"
+          ]
+        },
+        {
+          "title": "Doors",
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "colors": [
+            "#43506A",
+            "#43506A"
+          ],
+          "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/images/doors.png",
+          "category": "15"
+        },
+        {
+          "colors": [
+            "#12B58C",
+            "#12B58C"
+          ],
+          "category": "35",
+          "originalColor": false,
+          "title": "Basin",
+          "keepDefaultTitle": true,
+          "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/images/basin.png"
+        }
+      ],
+      "paddingY": 8,
+      "hideTitle": false,
+      "radius": 50
+    },
+    {
+      "fit": "cover",
+      "intervalTime": 3,
+      "isSlider": true,
+      "marginRight": 0,
+      "height": 0.32,
+      "marginLeft": 0,
+      "autoPlay": false,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "items": [
+        {
+          "category": 17,
+          "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/banner/banner1.jpg",
+          "padding": 0
+        },
+        {
+          "category": 73,
+          "padding": 0,
+          "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/banner/banner2.jpg"
+        },
+        {
+          "padding": 0,
+          "product": 1038,
+          "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/banner/banner3.jpg"
+        }
+      ],
+      "design": "default",
+      "radius": 0,
+      "layout": "bannerImage"
+    },
+    {
+      "name": "Happy Flash Sale 🎁",
+      "showCountDown": true,
+      "onSale": true,
+      "category": "16",
+      "layout": "saleOff",
+      "isSnapping": true
+    },
+    {
+      "category": "30",
+      "isSnapping": false,
+      "name": "Our Products",
+      "layout": "twoColumn"
+    },
+    {
+      "layout": "bannerImage",
+      "height": 0.2,
+      "items": [
+        {
+          "padding": 8,
+          "coupon": "blackf",
+          "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/banner/image.png",
+          "radius": 9
+        }
+      ]
+    },
+    {
+      "layout": "recentView",
+      "name": "Recent View"
+    },
+    {
+      "layout": "twoColumn",
+      "isSnapping": false,
+      "name": "New Collections",
+      "category": "17"
+    }
+  ],
+  "Setting": {
+    "MainColor": "#E53935",
+    "ProductListLayout": "list",
+    "StickyHeader": true,
+    "ProductDetail": "simpleType",
+    "ShowChat": true,
+    "FontFamily": "Raleway"
+  },
+  "TabBar": [
+    {
+      "key": "h6daxc7q8y",
+      "fontFamily": null,
+      "icon": "assets/icons/tabs/icon-home.png",
+      "showChat": false,
+      "layout": "home",
+      "pos": 100
+    },
+    {
+      "layout": "category",
+      "showChat": false,
+      "key": "h6daxc7q8y",
+      "pos": 200,
+      "icon": "assets/icons/tabs/icon-category.png",
+      "fontFamily": null
+    },
+    {
+      "layout": "search",
+      "key": "h6daxc7q8y",
+      "pos": 300,
+      "icon": "assets/icons/tabs/icon-search.png"
+    },
+    {
+      "layout": "cart",
+      "icon": "assets/icons/tabs/icon-cart2.png",
+      "key": "h6daxc7q8y",
+      "pos": 400
+    },
+    {
+      "layout": "profile",
+      "settings": [
+        "wishlist",
+        "notifications",
+        "language",
+        "currencies",
+        "darkTheme",
+        "order",
+        "point",
+        "rating",
+        "privacy",
+        "about"
+      ],
+      "key": "h6daxc7q8y",
+      "pos": 500,
+      "icon": "assets/icons/tabs/icon-user.png"
+    }
+  ],
+
+  "VerticalLayout": {
+    "key": "h6daxc7q8y",
+    "isVertical": true,
+    "layout": "pinterest",
+    "name": "Trending"
+  }
+}
