@@ -184,8 +184,7 @@
       "pos": 200,
       "icon": "assets/icons/tabs/icon-category.png",
       "fontFamily": null
-    },
-      "categories": [
+         "categories": [
                 "8",
                 "48",
                 "10",
@@ -196,7 +195,9 @@
                 "15",
                 "69"
             ]
-        },
+        
+    },
+   
     {
       "layout": "search",
       "key": "h6daxc7q8y",
