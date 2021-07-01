@@ -185,6 +185,18 @@
       "icon": "assets/icons/tabs/icon-category.png",
       "fontFamily": null
     },
+      "categories": [
+                "8",
+                "48",
+                "10",
+                "17",
+                "13",
+                "19",
+                "14",
+                "15",
+                "69"
+            ]
+        },
     {
       "layout": "search",
       "key": "h6daxc7q8y",
