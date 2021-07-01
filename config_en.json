@@ -23,7 +23,7 @@
       "items": [
         {
           "category": "8",
-          "title": "Bath",
+          "title": "Shower",
           "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/images/bath.png",
           "originalColor": false,
           "colors": [
@@ -59,7 +59,7 @@
           "category": "13",
           "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/images/flooring.png",
           "keepDefaultTitle": true,
-          "title": "Flooring",
+          "title": "Tiles",
           "colors": [
             "#53688A",
             "#53688A"
