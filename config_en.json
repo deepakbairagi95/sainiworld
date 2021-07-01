@@ -177,7 +177,14 @@
       "layout": "home",
       "pos": 100
     },
-   
+    {
+      "layout": "category",
+      "showChat": false,
+      "key": "h6daxc7q8y",
+      "pos": 200,
+      "icon": "assets/icons/tabs/icon-category.png",
+      "fontFamily": null
+     
        },
    
     {
