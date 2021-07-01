@@ -217,11 +217,11 @@
     }
   ],
 
-  "VerticalLayout": {
-    "key": "h6daxc7q8y",
-    "isVertical": true,
-    "layout": "pinterest",
-    "name": "Trending"
-     "category": "92"
-  }
+   "VerticalLayout": {
+        "key": "rkzfg93e9y",
+        "layout": "list",
+        "name": "Trending",
+        "isVertical": true,
+        "category": "92"
+    }
 }
