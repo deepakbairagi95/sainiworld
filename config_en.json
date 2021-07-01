@@ -127,12 +127,12 @@
       "name": "Happy Flash Sale 🎁",
       "showCountDown": true,
       "onSale": true,
-      "category": "16",
+      "category": "94",
       "layout": "saleOff",
       "isSnapping": true
     },
     {
-      "category": "30",
+      "category": "95",
       "isSnapping": false,
       "name": "Shop & Save",
       "layout": "twoColumn"
@@ -157,7 +157,7 @@
       "layout": "twoColumn",
       "isSnapping": false,
       "name": "New Collections",
-      "category": "17"
+      "category": "93"
     }
   ],
   "Setting": {
