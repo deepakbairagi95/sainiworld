@@ -1,226 +1,302 @@
 {
-  "HorizonLayout": [
-    {
-      "layout": "logo",
-      "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/images/logo-app.png",
-      "showMenu": true,
-      "showSearch": true,
-      "showLogo": true
-    },
-    {
-      "marginY": 8,
-      "marginBottom": 10,
-      "layout": "category",
-      "marginLeft": 10,
-      "wrap": false,
-      "line": false,
-      "marginRight": 10,
-      "type": "icon",
-      "marginTop": 10,
-      "marginX": 4,
-      "size": 1,
-      "paddingX": 4,
-      "items": [
+    "HorizonLayout": [
         {
-          "category": "8",
-          "title": "Shower",
-          "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/images/bath.png",
-          "originalColor": false,
-          "colors": [
-            "#3CC2BF",
-            "#3CC2BF"
-          ],
-          "keepDefaultTitle": true
+            "layout": "logo",
+            "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/images/logo-app.png",
+            "showMenu": true,
+            "showSearch": true,
+            "showLogo": true
         },
         {
-          "category": "48",
-          "title": "Kitchen",
-          "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/images/kitchen.png",
-          "keepDefaultTitle": true,
-          "colors": [
-            "#3E6AB5",
-            "#3E6AB5"
-          ],
-          "originalColor": false
+            "marginY": 8,
+            "marginBottom": 10,
+            "layout": "category",
+            "marginLeft": 10,
+            "wrap": false,
+            "line": false,
+            "marginRight": 10,
+            "type": "icon",
+            "marginTop": 10,
+            "marginX": 4,
+            "size": 1,
+            "paddingX": 4,
+            "items": [
+                {
+                    "category": "8",
+                    "title": "Shower",
+                    "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/images/bath.png",
+                    "originalColor": false,
+                    "colors": [
+                        "#3CC2BF",
+                        "#3CC2BF"
+                    ],
+                    "keepDefaultTitle": true
+                },
+                {
+                    "category": "48",
+                    "title": "Kitchen",
+                    "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/images/kitchen.png",
+                    "keepDefaultTitle": true,
+                    "colors": [
+                        "#3E6AB5",
+                        "#3E6AB5"
+                    ],
+                    "originalColor": false
+                },
+                {
+                    "colors": [
+                        "#53A2CC",
+                        "#53A2CC"
+                    ],
+                    "category": "34",
+                    "originalColor": false,
+                    "keepDefaultTitle": false,
+                    "title": "",
+                    "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/images/faucets.png"
+                },
+                {
+                    "originalColor": false,
+                    "category": "13",
+                    "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/images/flooring.png",
+                    "keepDefaultTitle": true,
+                    "title": "Tiles",
+                    "colors": [
+                        "#53688A",
+                        "#53688A"
+                    ]
+                },
+                {
+                    "title": "Doors",
+                    "originalColor": false,
+                    "keepDefaultTitle": true,
+                    "colors": [
+                        "#43506A",
+                        "#43506A"
+                    ],
+                    "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/images/doors.png",
+                    "category": "15"
+                },
+                {
+                    "colors": [
+                        "#12B58C",
+                        "#12B58C"
+                    ],
+                    "category": "35",
+                    "originalColor": false,
+                    "title": "Basin",
+                    "keepDefaultTitle": true,
+                    "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/images/basin.png"
+                }
+            ],
+            "paddingY": 8,
+            "hideTitle": false,
+            "radius": 50
         },
         {
-          "colors": [
-            "#53A2CC",
-            "#53A2CC"
-          ],
-          "category": "34",
-          "originalColor": false,
-          "keepDefaultTitle": false,
-          "title": "",
-          "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/images/faucets.png"
+            "fit": "cover",
+            "intervalTime": 3,
+            "isSlider": true,
+            "marginRight": 0,
+            "height": 0.32,
+            "marginLeft": 0,
+            "autoPlay": false,
+            "marginTop": 0,
+            "marginBottom": 0,
+            "items": [
+                {
+                    "category": 17,
+                    "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/banner/banner1.jpg",
+                    "padding": 0
+                },
+                {
+                    "category": 73,
+                    "padding": 0,
+                    "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/banner/banner2.jpg"
+                },
+                {
+                    "padding": 0,
+                    "product": 1038,
+                    "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/banner/banner3.jpg"
+                }
+            ],
+            "design": "default",
+            "radius": 0,
+            "layout": "bannerImage"
         },
         {
-          "originalColor": false,
-          "category": "13",
-          "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/images/flooring.png",
-          "keepDefaultTitle": true,
-          "title": "Tiles",
-          "colors": [
-            "#53688A",
-            "#53688A"
-          ]
+            "name": "Hafele Sale 🎁",
+            "showCountDown": true,
+            "onSale": true,
+            "category": "94",
+            "layout": "saleOff",
+            "isSnapping": true
         },
         {
-          "title": "Doors",
-          "originalColor": false,
-          "keepDefaultTitle": true,
-          "colors": [
-            "#43506A",
-            "#43506A"
-          ],
-          "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/images/doors.png",
-          "category": "15"
+            "category": "95",
+            "isSnapping": false,
+            "name": "Shop & Save",
+            "layout": "twoColumn"
         },
         {
-          "colors": [
-            "#12B58C",
-            "#12B58C"
-          ],
-          "category": "35",
-          "originalColor": false,
-          "title": "Basin",
-          "keepDefaultTitle": true,
-          "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/images/basin.png"
+            "layout": "bannerImage",
+            "height": 0.2,
+            "items": [
+                {
+                    "padding": 8,
+                    "coupon": "blackf",
+                    "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/banner/image.png",
+                    "radius": 9
+                }
+            ]
+        },
+        {
+            "layout": "recentView",
+            "name": "Recent View"
+        },
+        {
+            "layout": "twoColumn",
+            "isSnapping": false,
+            "name": "New Collections",
+            "category": "93"
         }
-      ],
-      "paddingY": 8,
-      "hideTitle": false,
-      "radius": 50
+    ],
+    "Setting": {
+        "MainColor": "#E53935",
+        "ProductListLayout": "list",
+        "StickyHeader": true,
+        "ProductDetail": "simpleType",
+        "ShowChat": true,
+        "FontFamily": "Raleway"
     },
-    {
-      "fit": "cover",
-      "intervalTime": 3,
-      "isSlider": true,
-      "marginRight": 0,
-      "height": 0.32,
-      "marginLeft": 0,
-      "autoPlay": false,
-      "marginTop": 0,
-      "marginBottom": 0,
-      "items": [
+    "TabBar": [
         {
-          "category": 17,
-          "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/banner/banner1.jpg",
-          "padding": 0
+            "key": "v42pbvqz1j",
+            "fontFamily": null,
+            "icon": "assets/icons/tabs/icon-home.png",
+            "showChat": false,
+            "layout": "home",
+            "pos": 100
         },
         {
-          "category": 73,
-          "padding": 0,
-          "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/banner/banner2.jpg"
+            "layout": "category",
+            "icon": "assets/icons/tabs/icon-category.png",
+            "pos": 200,
+            "categories": [
+                "8",
+                "48",
+                "10",
+                "17",
+                "13",
+                "19",
+                "14",
+                "15",
+                "69",
+                "9",
+                "30",
+                "28",
+                "16",
+                "18",
+                "35",
+                "29",
+                "24",
+                "34",
+                "32",
+                "27",
+                "26",
+                "71",
+                "72",
+                "89",
+                "58",
+                "90",
+                "59",
+                "60",
+                "62",
+                "63",
+                "66",
+                "68",
+                "74",
+                "36",
+                "44",
+                "45",
+                "46",
+                "47",
+                "37",
+                "38",
+                "39",
+                "40",
+                "41",
+                "42",
+                "43",
+                "91",
+                "50",
+                "86",
+                "87",
+                "54",
+                "56",
+                "57",
+                "20",
+                "70",
+                "73",
+                "22",
+                "51",
+                "52",
+                "53"
+            ]
         },
         {
-          "padding": 0,
-          "product": 1038,
-          "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/banner/banner3.jpg"
-        }
-      ],
-      "design": "default",
-      "radius": 0,
-      "layout": "bannerImage"
-    },
-    {
-      "name": "Hafele Sale 🎁",
-      "showCountDown": true,
-      "onSale": true,
-      "category": "94",
-      "layout": "saleOff",
-      "isSnapping": true
-    },
-    {
-      "category": "95",
-      "isSnapping": false,
-      "name": "Shop & Save",
-      "layout": "twoColumn"
-    },
-    {
-      "layout": "bannerImage",
-      "height": 0.2,
-      "items": [
+            "layout": "search",
+            "key": "v42pbvqz1j",
+            "pos": 300,
+            "icon": "assets/icons/tabs/icon-search.png"
+        },
         {
-          "padding": 8,
-          "coupon": "blackf",
-          "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/banner/image.png",
-          "radius": 9
+            "layout": "cart",
+            "icon": "assets/icons/tabs/icon-cart2.png",
+            "key": "v42pbvqz1j",
+            "pos": 400
+        },
+        {
+            "layout": "profile",
+            "settings": [
+                "wishlist",
+                "notifications",
+                "language",
+                "currencies",
+                "darkTheme",
+                "order",
+                "point",
+                "rating",
+                "privacy",
+                "about"
+            ],
+            "key": "v42pbvqz1j",
+            "pos": 500,
+            "icon": "assets/icons/tabs/icon-user.png"
         }
-      ]
+    ],
+    "Drawer": {
+        "logo": "assets/images/logo.png",
+        "items": [
+            {
+                "type": "home",
+                "show": true
+            },
+            {
+                "type": "blog",
+                "show": false
+            },
+            {
+                "show": true,
+                "type": "login"
+            },
+            {
+                "show": true,
+                "type": "category"
+            }
+        ]
     },
-    {
-      "layout": "recentView",
-      "name": "Recent View"
-    },
-    {
-      "layout": "twoColumn",
-      "isSnapping": false,
-      "name": "New Collections",
-      "category": "93"
-    }
-  ],
-  "Setting": {
-    "MainColor": "#E53935",
-    "ProductListLayout": "list",
-    "StickyHeader": true,
-    "ProductDetail": "simpleType",
-    "ShowChat": true,
-    "FontFamily": "Raleway"
-  },
-  "TabBar": [
-    {
-      "key": "h6daxc7q8y",
-      "fontFamily": null,
-      "icon": "assets/icons/tabs/icon-home.png",
-      "showChat": false,
-      "layout": "home",
-      "pos": 100
-    },
-    {
-      "layout": "category",
-      "showChat": false,
-      "key": "h6daxc7q8y",
-      "pos": 200,
-      "icon": "assets/icons/tabs/icon-category.png",
-      "fontFamily": null
-     
-       },
-   
-    {
-      "layout": "search",
-      "key": "h6daxc7q8y",
-      "pos": 300,
-      "icon": "assets/icons/tabs/icon-search.png"
-    },
-    {
-      "layout": "cart",
-      "icon": "assets/icons/tabs/icon-cart2.png",
-      "key": "h6daxc7q8y",
-      "pos": 400
-    },
-    {
-      "layout": "profile",
-      "settings": [
-        "wishlist",
-        "notifications",
-        "language",
-        "currencies",
-        "darkTheme",
-        "order",
-        "point",
-        "rating",
-        "privacy",
-        "about"
-      ],
-      "key": "h6daxc7q8y",
-      "pos": 500,
-      "icon": "assets/icons/tabs/icon-user.png"
-    }
-  ],
-
-   "VerticalLayout": {
-        "key": "rkzfg93e9y",
+    "VerticalLayout": {
+        "key": "91bqsov2xq",
         "layout": "list",
         "name": "Trending",
         "isVertical": true,
