@@ -164,20 +164,16 @@ const kNameToHex = {
   'Turquoise': '#40E0D0',
   'violet': '#EE82EE',
   'wheat': '#F5DEB3',
-  'whitesmoke': '#F5F5F5',
-  'yellowgreen': '#9ACD32',
-  'Blue': '#0000FF',
-  'Gold': '#DAA520',
-  'Whitemat': '#FDFBF9',
-  'Antiquebronze': '#BCA88F',
-  'Antiquecopper': '#BC9791',
-  'Blackchrome': '#2E3235',
-  'Golddust': '#D9AA3C',
-  'Fullgold': '#555958',
-  'Graphite': '#555958',
-  'Stainlessdteel': '#BFBAB5',
-  'Rosegold': '#EAB2A5',
-  'Chrome': '#F1F1F3'
+  'graphite': '#BEB8B3',
+  'stainlesssteel': '#C0BBB7',
+  'whitemat': '#FDFBF9',
+  'antiquebronze': '#BCA88F',
+  'antiquecopper': '#BC9791',
+  'blackchrome': '#2E3235',
+  'golddust': '#D9AA3C',
+  'fullgold': '#555958',
+  'rosegold': '#EAB2A5',
+  'chrome': '#F1F1F3'
 };
 
 const kOrderStatusColor = {
