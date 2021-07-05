@@ -143,7 +143,7 @@
             "items": [
                 {
                     "padding": 8,
-                    "coupon": "blackf",
+                    "coupon": "BONHOME",
                     "image": "https://sainiworld.s3.ap-south-1.amazonaws.com/banner/offer.jpg",
                     "radius": 9
                 }
